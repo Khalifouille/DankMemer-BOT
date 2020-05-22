@@ -11,11 +11,12 @@ MISE A JOUR LE 22/05/2020
 
 AJOUTS :
 
-Ajout du pls slots
-Possibilité de sélectionner la quantité à slots
-Ajout d'un message enregistrant votre pseudonyme
-Ajout d'un message de bienvenue
+- Ajout du pls slots
+- Possibilité de sélectionner la quantité à slots
+- Ajout d'un message enregistrant votre pseudonyme
+- Ajout d'un message de bienvenue
+
 A VENIR :
 
-Nouveau design
-Plus d'options via le BOT directement
+- Nouveau design
+- Plus d'options via le BOT directement
