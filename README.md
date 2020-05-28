@@ -20,3 +20,15 @@ A VENIR :
 
 - Nouveau design
 - Plus d'options via le BOT directement
+
+MISE A JOUR LE 28/05/2020
+
+AJOUTS :
+
+- Ajout d'un temps de chargement au début
+- Ajout d'un système de Copier/Coller automatique
+- Recolte automatique du chat Discord sans enfreindre les TOS de ce-dernier
+- Modification du design du BOT
+- Ajout d'une bannière
+- Optimisation du BOT
+- Quelques bugs ont été régler 
