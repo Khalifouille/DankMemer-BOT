@@ -32,3 +32,6 @@ AJOUTS :
 - Ajout d'une bannière
 - Optimisation du BOT
 - Quelques bugs ont été régler 
+
+RACCOURCI : 
+- F1 : Eteindre le système de C/C
