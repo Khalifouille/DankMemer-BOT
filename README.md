@@ -27,7 +27,9 @@ AJOUTS :
 
 - Ajout d'un temps de chargement au début
 - Ajout d'un système de Copier/Coller automatique
-- Recolte automatique du chat Discord sans enfreindre les TOS de ce-dernier
+- Recolte automatique du chat Discord lors de l'activation du FISH sans enfreindre les TOS de ce-dernier
+- Detection de quelques mots clefs lors du FISH
+- Réponse automatique pour les events du FISH 
 - Modification du design du BOT
 - Ajout d'une bannière
 - Optimisation du BOT
