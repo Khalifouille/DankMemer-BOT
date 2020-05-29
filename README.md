@@ -37,3 +37,12 @@ AJOUTS :
 
 RACCOURCI : 
 - F1 : Eteindre le système de C/C
+
+MISE A JOUR LE 29/05/2020
+
+- Fix des bugs concernant le systéme de C/C
+- Ajout d'une checkbox afin de séparer le système du FISH au système de C/C
+- Changement de la touche qui éteint le système de C/C
+- Ajout d'une touche afin d'activer le système de C/C (L'active sans le lancer)
+- Possibilité de lancer le système de C/C séparrement à celui du FISH en cochant la case prévu pour cet effet 
+- Possibilité de désactiver le système de C/C séparrement à celui du FISH en cochant la case prévu pour cet effet 
