@@ -47,6 +47,6 @@ MISE A JOUR LE 29/05/2020
 - Possibilité de lancer le système de C/C séparrement à celui du FISH en cochant la case prévu pour cet effet 
 - Possibilité de désactiver le système de C/C séparrement à celui du FISH en cochant la case prévu pour cet effet 
 
-RACCOURCI : 
+RACCOURCIS : 
 - F2 : DESACTIVE LE SYSTEME DE C/C
 - F3 : ACTIVE LE SYSTEME DE C/C
